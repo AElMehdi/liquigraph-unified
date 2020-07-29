@@ -35,12 +35,6 @@
     <modules>
         <module>liquigraph-testing</module>
         <module>liquigraph-core</module>
-        <module>liquigraph-maven-plugin</module>
-        <module>liquigraph-cli</module>
-        <module>liquigraph-spring-boot-starter</module>
-        <!-- Liquigraph integration examples -->
-        <module>liquigraph-examples/dagger2</module>
-        <module>liquigraph-examples/spring-boot</module>
     </modules>
 
     <build>
